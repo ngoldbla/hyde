@@ -8,14 +8,14 @@ relative_permalinks: false
 
 # Setup
 title:            Goldblatt
-tagline:          '@HerrGoldblatt'
-description:      'Technologist & Germanist. Theme by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+tagline:          '@ndgold'
+description:      'Technologist & Professor'
+url:              http://www.ndgold.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Dylan Goldblatt'
+  url:            https://twitter.com/ndgold
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/ngoldbla
